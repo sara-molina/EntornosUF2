@@ -20,6 +20,9 @@ public class Refactor {
 	datos.put("Paco",EMPLEADO);
 	datos.put("Mario",EMPLEADO);
 	datos.put("Antonio",EMPLEADO);
+	datos.put("José",EMPLEADO);
+	datos.put("Tamara",EMPLEADO);
+	
 	
 	for(Map.Entry<String, String> entry : datos.entrySet()) {
 		
